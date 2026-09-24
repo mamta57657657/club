@@ -1,0 +1,6 @@
+{
+  "name": "Clubs & Co - Luxury Private Members Club Portal",
+  "description": "Exclusive places and extraordinary experiences. Explore iconic private member clubs, curate bespoke itineraries, and connect with your personal AI concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
